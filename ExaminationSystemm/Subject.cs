@@ -17,7 +17,7 @@ namespace ExaminationSystemm
 
         public override string ToString()
         {
-            return Name;
+            return $"Subject name : {Name}";
         }
     }
 }
